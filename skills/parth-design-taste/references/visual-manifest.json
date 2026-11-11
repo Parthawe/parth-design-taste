@@ -1,0 +1,481 @@
+{
+  "assembled_on": "2026-11-10",
+  "description": "Unmodified local copies for design study, grouped by what each image supports. These are historical references, not a new live-site audit.",
+  "image_count": 24,
+  "images": [
+    {
+      "id": "V01",
+      "file": "images/home-desktop-light.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/",
+      "sha256": "56cd9f7dd4bc7be8305f75a05f2bb0fe98fcb3499ac08341afe2b5c1ad692492",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "Large editorial type paired with plain supporting text; an object scene creates a second visual focus. Warm surrounding surfaces leave room for the content.",
+      "boundary": "Study type roles and composition. Do not require this font, copy, hero height, background texture, or object network in another project.",
+      "section": "Editorial direction",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/home-desktop-light.png"
+    },
+    {
+      "id": "V02",
+      "file": "images/home-desktop-dark.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/",
+      "sha256": "1c221a219f0efcb8179e7fcae2d9f0f763ce59910244026cc26eae4f51f8b4d9",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "The same editorial/object relationship survives a dark treatment. Neutral surroundings let the forms retain their material detail.",
+      "boundary": "The assistant bubble overlaps content in this capture; its placement is not endorsed. Dark mode is a project decision.",
+      "section": "Editorial direction",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "dark",
+      "archive_source": "audit/evidence/home-desktop-dark.png"
+    },
+    {
+      "id": "V03",
+      "file": "images/mentra-desktop-light.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/mentra/",
+      "sha256": "ac0e45f793bfc74ccc7d21b4f6de0fa33c5471719bb96840ac9b449321856552",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "A quiet project frame gives the artifact most of the space. Plain project type, restrained metadata, and clear actions support the image.",
+      "boundary": "The cover is identified as generated in the captured site. Treat it as presentation, not documentary proof of real-world use.",
+      "section": "Project framing and density",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/mentra-desktop-light.png"
+    },
+    {
+      "id": "V04",
+      "file": "images/mentra-desktop-dark.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/mentra/",
+      "sha256": "e581c5d63d7cbe00e166830574cc763c702c031bb4b5711d51df0cff48211c01",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "Dark chrome preserves the original light media rather than recoloring the project artifact. The surrounding frame stays consistent.",
+      "boundary": "Do not inherit every fixed control or assume a dark page requires darkening product screenshots.",
+      "section": "Project framing and density",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "dark",
+      "archive_source": "audit/evidence/mentra-desktop-dark.png"
+    },
+    {
+      "id": "V05",
+      "file": "images/work-desktop-light.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/work/",
+      "sha256": "1178762617278791514840f40152d90139b159c0ea22f0ce34145ce5580b090f",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "Large project imagery carries distinct identities inside a common index. Compact view controls offer a visible way to change browsing mode.",
+      "boundary": "Card count, masonry arrangement, moving copy, and fixed filter position are site-specific. Use a stable summary in future listings.",
+      "section": "Project framing and density",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/work-desktop-light.png"
+    },
+    {
+      "id": "V06",
+      "file": "images/work-mobile-index-light.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/work?view=library",
+      "sha256": "d07b25fe537084a2ffe0ea1945942b02a5ac695df49914070d4d702ee4bbf5b5",
+      "dimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "study": "The compact index uses thumbnails, names, metadata, and short summaries for scanning on a small screen.",
+      "boundary": "Use its scan hierarchy only when a collection needs it. Do not copy the number of modes or the amount of opening chrome.",
+      "section": "Project framing and density",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/work-mobile-index-light.png"
+    },
+    {
+      "id": "V07",
+      "file": "images/mentra-decisions-desktop-light.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/mentra/",
+      "sha256": "dedbda9d608cd6a684ac5a48567e549a2bcfd94511a489ce98c2060c165a9737",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "A before-and-after comparison is paired with the question, choice, and instructions for reading the screen.",
+      "boundary": "The adjacent slide is partly visible and fixed tools remain present. Extract the evidence-and-explanation relationship, not the clipping or overlay.",
+      "section": "Decision evidence",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/mentra-decisions-desktop-light.png"
+    },
+    {
+      "id": "V08",
+      "file": "images/mentra-decisions-mobile-dark.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/mentra/#decision-first-use",
+      "sha256": "07ed54629f7a0cec33f917ecabc055789a5ae9f01d77191c463ba411ac8daebc",
+      "dimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "study": "The evidence and its captions stack into a readable sequence. Controls expose the selected slide and available next step.",
+      "boundary": "Tiny text inside the original slide still needs the text alternative and original-size route. A photograph or screenshot alone cannot prove a usability outcome.",
+      "section": "Decision evidence",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "theme": "dark",
+      "archive_source": "audit/evidence/mentra-decisions-mobile-dark.png"
+    },
+    {
+      "id": "V09",
+      "file": "images/raahi-desktop-light.png",
+      "kind": "context",
+      "source_url": "https://designwhich.works/raahi-project/",
+      "sha256": "329014290cfb172fe0186c83b70a9e0aa1cd2911afcefe92866f7f156acc793c",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "One project image relates phone, kiosk, and vehicle touchpoints. The shared narrative frame can hold a different service identity.",
+      "boundary": "This is a browser adaptation of a service concept. Its purple and dark screens are project-specific, not universal palette preferences.",
+      "section": "Different project identities",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/raahi-desktop-light.png"
+    },
+    {
+      "id": "V10",
+      "file": "images/transfi-desktop-light.png",
+      "kind": "context",
+      "source_url": "https://designwhich.works/transfi-project/",
+      "sha256": "1748fd6887c8591c260f16287b207f118a7e196b6de9b637b4d15912dfb8e005",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "Financial information and a consumer widget retain their own blue identity inside the neutral portfolio shell.",
+      "boundary": "Use the domain-specific information structure as context. Do not copy dashboard numbers, brand assets, or make claims about private functionality.",
+      "section": "Different project identities",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/transfi-desktop-light.png"
+    },
+    {
+      "id": "V11",
+      "file": "images/jugalbandi-desktop-light.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/jugalbandi/",
+      "sha256": "0bf5d7ee70abb664e9c0ede45535c4e4f2e01dc9b5b243ba921391263f8bc442",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "A photograph shows the performer, instrument, and acoustic machine in the same scene. The subject supplies the strong color.",
+      "boundary": "Stage lighting is content, not a default purple UI theme. Keep photography credits when using it publicly.",
+      "section": "Physical and material thinking",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/jugalbandi-desktop-light.png"
+    },
+    {
+      "id": "V12",
+      "file": "images/enigma-original-sculpture.webp",
+      "kind": "original-project-image",
+      "source_url": "https://designwhich.works/enigma/",
+      "sha256": "3362a7108530a62c34cb0e97ded938ad3b4c17bff2dfcd0927c229a7480e0830",
+      "dimensions": {
+        "width": 1321,
+        "height": 881
+      },
+      "study": "The tablet, spatial layers, wires, and lights make the relationship between input and represented computation visible.",
+      "boundary": "A still image demonstrates physical arrangement, not recognition accuracy, timing, or visitor comprehension. Photo attribution must be checked before publication.",
+      "section": "Physical and material thinking",
+      "source_date": "Not established; local project archive",
+      "archive_source": "public/Assets/Projects/Enigma/photos/full-sculpture-wide.webp"
+    },
+    {
+      "id": "V13",
+      "file": "images/jugalbandi-original-mechanism.webp",
+      "kind": "original-project-image",
+      "source_url": "https://designwhich.works/jugalbandi/",
+      "sha256": "3f6f3756c77e3548f70215d841f2a2c27df528c4c381870d3f2dadeca7f32d70",
+      "dimensions": {
+        "width": 2400,
+        "height": 1598
+      },
+      "study": "Visible servos, wiring, picks, strings, and wood communicate how the object is built. Craft includes the mechanism, not only the finished enclosure.",
+      "boundary": "Use it to study material and mechanism legibility. It is not a prompt to decorate unrelated UI with exposed wires or wooden textures.",
+      "section": "Physical and material thinking",
+      "source_date": "Not established; local project archive",
+      "archive_source": "public/Assets/Projects/Jugalbandi/Photos/538A4005_nsquare_57.webp"
+    },
+    {
+      "id": "V14",
+      "file": "images/typeface-desktop-light.png",
+      "kind": "context",
+      "source_url": "https://designwhich.works/typeface/",
+      "sha256": "b905c6f11aea22ff733ba6eb35f55fbba4dd29d103264ad31dbbd70c205ddfa8",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "The specimen has its own graphic composition and color; the portfolio frame remains recognizable.",
+      "boundary": "The purple cover belongs to this artifact. The typeface is a display study, not a required body or UI font.",
+      "section": "Typography and construction",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/typeface-desktop-light.png"
+    },
+    {
+      "id": "V15",
+      "file": "images/typeface-original-slice-types.jpg",
+      "kind": "original-project-image",
+      "source_url": "https://designwhich.works/typeface/",
+      "sha256": "c5c559552c34ae983b24b3008023a5ecc453083480b5c775638d3220d4163f50",
+      "dimensions": {
+        "width": 2161,
+        "height": 3725
+      },
+      "study": "Angle, vertical, and linear cuts form a repeated construction idea across different letterforms. Large specimens make the detail inspectable.",
+      "boundary": "The artifact includes its original copy and layout. Study consistency of construction without reproducing its writing or treating this font as a general UI choice.",
+      "section": "Typography and construction",
+      "source_date": "Not established; local project archive",
+      "archive_source": "public/Assets/Projects/Typeface/photos/slice-types.jpg"
+    },
+    {
+      "id": "V16",
+      "file": "images/typeface-original-inspiration.jpg",
+      "kind": "original-project-image",
+      "source_url": "https://designwhich.works/typeface/",
+      "sha256": "17d227ddaa82266433b0bc580cfdbf2991622400680d7dc343c3f7f262ca0a6f",
+      "dimensions": {
+        "width": 585,
+        "height": 450
+      },
+      "study": "A knife and carved surface connect the visual idea to a specific material gesture. The reference explains why the letterform intervention exists.",
+      "boundary": "The embedded inspiration photography has its own attribution requirements. Use this as a record of the project’s references, not as a licensed stock asset.",
+      "section": "Typography and construction",
+      "source_date": "Not established; local project archive",
+      "archive_source": "public/Assets/Projects/Typeface/photos/inspiration-cut.jpg"
+    },
+    {
+      "id": "V17",
+      "file": "images/graveyard-desktop-light.png",
+      "kind": "direction",
+      "source_url": "https://designwhich.works/graveyard/",
+      "sha256": "d145a0d6c7b754148352c4246bd05faa7db8156503a440675e6be53daa9cb1b1",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "The archive metaphor has a complete visual setting, object language, and tone of voice. Play grows from the subject.",
+      "boundary": "The inscription text is too small and subdued to use as a legibility reference. Preserve the coherent idea while improving essential reading.",
+      "section": "Purposeful play",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/graveyard-desktop-light.png"
+    },
+    {
+      "id": "V18",
+      "file": "images/graveyard-desktop-dark.png",
+      "kind": "mood-only",
+      "source_url": "https://designwhich.works/graveyard/",
+      "sha256": "8fee6b7f025b1963e6132a15b73562d7978bbd41822c2cd784f1ab86964c52b5",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "The same archive changes its atmosphere from day to night, showing how a coherent concept can support expressive theme variation.",
+      "boundary": "Use for atmosphere only. The captured title and metadata have readability concerns; do not copy their low contrast.",
+      "section": "Purposeful play",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "dark",
+      "archive_source": "audit/evidence/graveyard-desktop-dark.png"
+    },
+    {
+      "id": "V19",
+      "file": "images/playbook-after-category-desktop-dark.png",
+      "kind": "context",
+      "source_url": "https://designwhich.works/playbook",
+      "sha256": "77b2e1aa29c669c39a86d082013eccf1fdd3ea1231a9ad29d72845557a2237cf",
+      "dimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "study": "The intended hierarchy pairs editorial headings with small labels, project links, and an object illustration for each idea.",
+      "boundary": "This capture followed category navigation because direct entry was broken. The image is useful for intended hierarchy, not evidence that route loading is correct.",
+      "section": "Purposeful play",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "dark",
+      "archive_source": "audit/evidence/playbook-after-category-desktop-dark.png"
+    },
+    {
+      "id": "V20",
+      "file": "images/mentra-original-home-before.png",
+      "kind": "before-state",
+      "source_url": "https://designwhich.works/mentra/",
+      "sha256": "f82a0594548f2f39c3c62b029db7736b049f6b0d8e22aeaef70f349c5d8ae928",
+      "dimensions": {
+        "width": 313,
+        "height": 712
+      },
+      "study": "The earlier screen lets a reader identify the dominance of device information and the division between active and inactive apps.",
+      "boundary": "This is comparison evidence, not a recommended starting style. It does not establish the results of testing.",
+      "section": "Decision evidence",
+      "origin_record": "Figma deck source.json: node 6:28355, exported 2026-10-04",
+      "archive_source": "public/Assets/images/mentra/deck/home-before.png"
+    },
+    {
+      "id": "V21",
+      "file": "images/mentra-original-home-after.png",
+      "kind": "original-project-image",
+      "source_url": "https://designwhich.works/mentra/",
+      "sha256": "d96ce92c957683500280a666108797464723693f1efa0a774bbd7168bbe7b220",
+      "dimensions": {
+        "width": 342,
+        "height": 725
+      },
+      "study": "The later screen gives app launching more space and consolidates the device area. Compare it with V20 to see the hierarchy change.",
+      "boundary": "Transfer the prioritization decision when relevant, not the icon artwork, shadows, exact layout, or implied release status.",
+      "section": "Decision evidence",
+      "origin_record": "Figma deck source.json: node 6:28378, exported 2026-10-04",
+      "archive_source": "public/Assets/images/mentra/deck/home-after.png"
+    },
+    {
+      "id": "C01",
+      "file": "images/home-mobile-light.png",
+      "kind": "caution",
+      "source_url": "https://designwhich.works/",
+      "sha256": "2f4e52a371715a24d23eab6b396113dddbe6c4b73d15ccb5dc380d8c9dc72bd6",
+      "dimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "study": "A large reserved scene area pushes the introduction down on a 390px-wide screen.",
+      "boundary": "Use as a spacing counterexample. Preserve expressive form while bringing the task and content into a stronger relationship.",
+      "section": "Captured issues to avoid",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/home-mobile-light.png"
+    },
+    {
+      "id": "C02",
+      "file": "images/playbook-mobile-light.png",
+      "kind": "caution",
+      "source_url": "https://designwhich.works/playbook/",
+      "sha256": "a2bcfef58538763f369e08954f04f3b0a6866af787dbd6178dbd8694ed0a497e",
+      "dimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "study": "Direct-entry styling failed in this capture, leaving navigation over the heading and compressing the content hierarchy.",
+      "boundary": "Do not copy the small title, unstyled links, or overlap. V19 records the intended hierarchy after the missing styles loaded.",
+      "section": "Captured issues to avoid",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/playbook-mobile-light.png"
+    },
+    {
+      "id": "C03",
+      "file": "images/typeface-mobile-specimen-light.png",
+      "kind": "caution",
+      "source_url": "https://designwhich.works/typeface/#tf-playground",
+      "sha256": "0363cb799bbc655b202637ba4fc18af425cb225d18cfb7104e0c61f2455bf9be",
+      "dimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "study": "The full specimen splits weight names within words and has a lower navigation surface over the specimen area.",
+      "boundary": "Keep functional labels intact and protect editable content from persistent controls. The typeface concept itself remains a positive reference.",
+      "section": "Captured issues to avoid",
+      "captured_on": "2026-11-07",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "theme": "light",
+      "archive_source": "audit/evidence/typeface-mobile-specimen-light.png"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Parth Design Taste"
+  short_description: "Adapt Parth’s taste to each company and design task"
+  default_prompt: "Use $parth-design-taste to design for this company, audience, business model, and brand using the available model and tools."
+
+policy:
+  allow_implicit_invocation: true
