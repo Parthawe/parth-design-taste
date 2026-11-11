@@ -1,13 +1,14 @@
-# Apply Parth design taste to this project
+# Parth Design Taste
 
-Read [the skill](skills/parth-design-taste/SKILL.md) before starting design work. Its references and 24 images are bundled in this repository. Resolve paths relative to the skill directory.
+Give this page to your assistant with your project brief.
 
-1. Inspect the current project, company, audience, business or service model, brand, and existing components. Derive the working brief from available context.
-2. Read the company-context and design-decisions references when choosing a direction. Apply the relevant principles to this product.
-3. Read the visual reference selection table and open the relevant image files with an available image viewer. If image inspection is unavailable, report that limit.
-4. Adapt execution to the actual AI model and available tools using model-adaptation.md.
-5. Implement the requested work and check its relevant rendered sizes, states, and recovery behavior. Explain what was tested.
+> Read the linked skill. Open the relevant reference images. Apply the design guidance to this project's company, audience, business model, and brand. Complete the requested work and verify the result with the tools available.
 
-For ongoing Codex use, install the folder `skills/parth-design-taste` using the available skill installer. Add a project instruction to automatically load the installed skill for design work if the project needs an explicit rule. Read the bundled evidence when attributing a preference.
+1. Read [SKILL.md](skills/parth-design-taste/SKILL.md) for the core workflow.
+2. Inspect the current project and pick one or two images from the [visual reference guide](skills/parth-design-taste/references/visual-references.md). Open the images themselves when the model can inspect them.
+3. Use the [company guide](skills/parth-design-taste/references/company-context.md) and [design decisions](skills/parth-design-taste/references/design-decisions.md) as the brief requires. Use [model adaptation](skills/parth-design-taste/references/model-adaptation.md) to account for the available tools.
+4. Check the work against the project task and the [taste check](skills/parth-design-taste/references/design-decisions.md#taste-check).
 
-For a read-only assistant, apply the instructions and request only the project information that materially affects the result. A link alone supplies the taste reference. The project's own brief supplies what to build.
+GitHub serves the instructions and all 24 reference images publicly. The [raw Start Here file](https://raw.githubusercontent.com/Parthawe/parth-design-taste/main/START-HERE.md) is available for tools that read plain text. Resolve relative links from the repository root, and resolve links inside the skill from the file that contains them.
+
+For repeated use, clone `https://github.com/Parthawe/parth-design-taste.git` or install `skills/parth-design-taste` with your assistant's skill installer.

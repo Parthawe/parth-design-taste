@@ -27,6 +27,12 @@ Keep the working context internal or in the project's existing design brief when
 
 These judgments stay consistent. Fonts, palette, density, grid, component shapes, tone, and expression adapt to the company and product. A company's approved brand is not a defect to replace. A business model should inform useful tasks and accurate terms without obscuring consequences or user control.
 
+## Make the direction specific
+
+Before designing a new surface, settle the first useful action, the role of type and imagery, and the states that need attention. Look for one expressive decision tied to the work, such as an authored headline, an original object photograph, or a short interaction that explains a mechanism. Give that decision room with a quiet supporting layout. Operational surfaces may get their character from the real device, data, or interaction.
+
+Default to readable type roles, borders and spacing that clarify relationships, and color with a clear purpose. Start with the supplied content and brand when choosing a layout. Use a repeated card or a visual effect when it helps the audience scan, compare, act, or understand the subject. See the [composition examples and taste check](references/design-decisions.md#taste-check).
+
 ## Read only what helps
 
 | Need | Reference |

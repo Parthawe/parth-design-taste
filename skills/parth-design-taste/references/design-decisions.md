@@ -60,3 +60,18 @@ Separate original artifacts from later adaptations. Jugalbandi and Enigma distin
 **Expressive personal portfolio.** Give real work a prominent role, use type with character, and consider one coherent spatial or playful experience. Keep an accessible reading path and direct contact route. Carry forward craft and curiosity without collecting every available effect.
 
 **Small edit within an established brand.** Keep its fonts, colors, tokens, layout, and public interfaces. Improve the requested label, state, or component in that vocabulary. The taste skill should sharpen the decision without expanding the assignment.
+
+
+## Taste check
+
+Use these checks to judge a substantial new direction against the brief. Each should lead to a concrete decision in the work.
+
+| Check | What to look for |
+|---|---|
+| First useful action | A wearer can see whether their glasses are ready and start a call. A portfolio visitor can read the introduction and reach selected work before a heavy scene loads. |
+| Type roles | Display type carries character where it has room. Supporting text, controls, and small labels use a face and size suited to reading. |
+| Artifact and material | The frame gives the actual project room to explain itself. Show the object, interface, or mechanism where it answers a question. Use strong color and texture when the material or brand calls for them. |
+| Layout and decoration | Space and alignment make relationships apparent. Gradients, glass, rounded cards, and motion need a specific purpose in the composition. Give a recurring component a consistent radius and hierarchy. |
+| Behavior and evidence | Verify the important action and a relevant interruption or failure. Match copy to the actual state. Use real artifacts and label demonstrations and reconstructions accurately. |
+
+For a portfolio opening, compare the display and supporting type roles in [V01](images/home-desktop-light.png) with the excessive vertical gap in [C01](images/home-mobile-light.png). Preserve the editorial character while giving the introduction and work link a clear position. For a device interface, use [V20](images/mentra-original-home-before.png) and [V21](images/mentra-original-home-after.png) to inspect where device status and app entry compete for space. Keep device state legible and verify that reconnecting restores readiness without restarting the task. For a physical or spatial project, use [V12](images/enigma-original-sculpture.webp) or [V13](images/jugalbandi-original-mechanism.webp) to choose what the viewer needs to inspect. Keep each project's fonts, colors, density, and degree of expression tied to its own brief.
