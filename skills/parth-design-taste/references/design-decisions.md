@@ -64,6 +64,10 @@ Separate original artifacts from later adaptations. Jugalbandi and Enigma distin
 
 ## Taste check
 
+When comparing related sites, look at their rendered openings side by side. Identify the shared judgment and what gives each project its own identity. If the same headline treatment, surface, accent, or button hierarchy recurs without serving the subject, adapt the project with the weaker rationale. Use the work itself to make that choice. An exhibit can frame its original object like a gallery, a lesson can keep the explanation beside the demonstration, and a game catalog can take its accent from the game artwork.
+
+Then follow the first meaningful action through its result. Check what a visitor can do before a large asset loads, what the action promises, where focus lands, and how someone continues if the optional experience fails. Compare a phone and desktop at the same point in the flow. On a phone, provide a direct route when the lead artifact pushes the task out of sight.
+
 Use these checks to judge a substantial new direction against the brief. Each should lead to a concrete decision in the work.
 
 | Check | What to look for |
